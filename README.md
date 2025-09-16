@@ -1,5 +1,6 @@
 ## Helllloooooooo!!!!! :)
 My name is Jacen, I am a huge lover of learning and growing. I am currently residing in the beautiful state of California, USA. Here to enjoy and learn from others on this platform :) 
+![California](https://github.com/user-attachments/assets/3bf3d2ca-96f4-4fe9-83b6-943cc9163878)
 -------------------------------
 Interests: 
 I write and poetry on my off time, my favorite writes are from Robert Frost, or John Ashbery and if you'd like I have also linked my poem page if you are a lover of poetry like me.
