@@ -14,6 +14,7 @@ Working on:
 Right now I am currently a undergrad student pursuing a B.S. in Electrical engineering degree at SSU (Sonoma state university).
 -----------------------------------------------------------------
 Outside of coursework, I’m working on a project to incorporate FPGAs into Unreal Engine 5 using a networking/USB co-processor approach for real-time DSP and audio processing.
+![UE5](https://github.com/user-attachments/assets/252a2cb5-a72f-4aef-9480-a72800d097d7)
 --------------------------------------------------
 Hardware: PYNQ-Z2 FPGA board
 Interests: Digital Signal Processing (DSP), Audio Engineering, Embedded Systems, FPGA/SoC Design, Game/Simulation Tech.
