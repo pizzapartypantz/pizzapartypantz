@@ -3,6 +3,7 @@ My name is Jacen, I am a huge lover of learning and growing. I am currently resi
 -------------------------------
 Interests: 
 I write and poetry on my off time, my favorite writes are from Robert Frost, or John Ashbery and if you'd like I have also linked my poem page if you are a lover of poetry like me.
+![Poetry](https://github.com/user-attachments/assets/81ea59e7-bab4-4248-a7d9-d154a30260e3)
 -----------------------------------------------------
 I also love video games, I have played mainly PC and Consoles games, some of my favorite games of all time, are wizard101, half-life 2, skate 3, and team fortress 2. I can talk about games all day!! literally!
 ------------------------
