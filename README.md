@@ -7,6 +7,7 @@ I write and poetry on my off time, my favorite writes are from Robert Frost, or 
 I also love video games, I have played mainly PC and Consoles games, some of my favorite games of all time, are wizard101, half-life 2, skate 3, and team fortress 2. I can talk about games all day!! literally!
 ------------------------
 I also enjoy Gunpla (Gundam model building).
+![Gunpla Build](https://github.com/user-attachments/assets/95c68e5c-2096-4af8-9a15-661461486dd3)
 ------------------------------------------------
 Working on:
 Right now I am currently a undergrad student pursuing a B.S. in Electrical engineering degree at SSU (Sonoma state university).
