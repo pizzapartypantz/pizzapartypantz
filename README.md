@@ -17,6 +17,7 @@ Outside of coursework, I’m working on a project to incorporate FPGAs into Unre
 --------------------------------------------------
 Hardware: PYNQ-Z2 FPGA board
 Interests: Digital Signal Processing (DSP), Audio Engineering, Embedded Systems, FPGA/SoC Design, Game/Simulation Tech.
+![FPGA](https://github.com/user-attachments/assets/daf970b6-4eb2-4d28-a3ac-adb1bd825ff8)
 ---------------------------------------------------------
 Any help or tips is much appreciated! :)
 ---------------------------------------------------
