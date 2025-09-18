@@ -33,11 +33,11 @@ Funny facts about me!
 -Joy Division is my favorite band :)
 -Pizza is my favorite food (look at my username LOL)
 ------------------------------------------
-,,cpp
+```cpp
 #include <iostream>
 int main() {
     std::cout << "Goodbye, but not for long! " << std::endl;
     return 0;
 }
-
+```
 
